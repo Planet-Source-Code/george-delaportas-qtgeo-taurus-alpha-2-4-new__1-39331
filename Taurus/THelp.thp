@@ -1,0 +1,54 @@
+===============Taurus Help===============
+
+                       Welcome To Taurus Help
+                Thank You For Choosing Taurus
+                      Programming Language
+      We Hope You Will Find Anything You Need
+
+--------------------------------------------------------------
+                              Commands
+--------------------------------------------------------------
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+help\ : Open Help System
+
+set\*\ : Dim Variables (*)
+
+reset\ : ReSet All Variables
+
+put\*\%\ : Put * To A Variable (%)
+
+cs\ : Clear Screen From Previous Draws
+
+color\* : Change Color To (*) Color (0-15)
+
+show\$\x\y\* : Print Text ($) Or Variable At (X/Y) And Color (*)
+
+mouse\on/off\ : Mouse On/Off
+
+loop\*\*\ : Loop From  (*) To (*)
+
+counter\*\ : Reserved Counter That Shows The Current Loop
+
+end\ : End Loop
+
+add\*\*...\$\ : Add (*) And Put Them To A Variable ($)
+
+sub\*\*...\$\ : Substruct (*) And Put Them To A Variable ($)
+
+mul\*\*...\$\ : Multiply (*) And Put Them To A Variable ($)
+
+div\*\*...\$\ :Divide (*) And Put Them To A Variable ($)
+
+sdiv\*\*...\$\ :Simple Divide (*) And Put Them To A Variable ($)
+
+rnd\*\ : Randomize (*) Numbers (-9999-9999)
+
+absolute\*\ : Absolute Of (*)
+
+run\ : Run The Program
+
+exit\ : Exit The Program
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
